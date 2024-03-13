@@ -1,0 +1,2 @@
+convert-im6.q16: improper image header `email.txt' @ error/txt.c/ReadTXTImage/450.
+convert-im6.q16: no images defined `convertidos/email.png' @ error/convert.c/ConvertImageCommand/3229.
