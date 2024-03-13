@@ -1,3 +1,4 @@
 sudo locale-gen pt_BR.UTF-8
 sudo dpkg-reconfigure locales
 sudo update-locale LANG=pt_BR.UTF-8 LC_ALL=pt_BR.UTF-8
+Alterando esse arquivo para ver o funcionamento no git
